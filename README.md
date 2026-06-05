@@ -110,3 +110,11 @@ Part of the **SuperInstance** ternary computing suite:
 ## License
 
 MIT
+
+## See Also
+- **ternary-constraint** — related
+- **ternary-scheduling** — related
+- **ternary-search** — related
+- **ternary-optimization** — related
+- **ternary-control** — related
+
